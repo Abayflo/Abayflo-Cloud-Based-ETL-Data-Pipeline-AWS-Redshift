@@ -18,6 +18,9 @@ This project demonstrates an end-to-end ETL pipeline that extracts raw data, tra
 4. Load into Redshift staging tables
 5. Apply transformations using SQL
 
+## 📊 Use Case
+Simulates a basic sales dataset pipeline for a retail company — preparing the data for BI and reporting use.
+
 ## 📁 Directory Structure
 - `etl/`: Python scripts for ETL logic
 - `sql/`: Table schema and SQL transformations
